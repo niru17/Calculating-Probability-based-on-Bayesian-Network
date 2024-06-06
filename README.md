@@ -67,15 +67,11 @@ Returns the probability tables for B, G, C, and F.
 
 Example Usage
 
-python script.py data.txt
-
+- python script.py data.txt
 Processes the training data and performs task 1.
 
-
-python script.py data.txt bt gt ct ft
-
+- python script.py data.txt bt gt ct ft
 Processes the training data and performs task 2, calculating the joint probability for B=True, G=True, C=True, F=True.
 
-python script.py data.txt given
-
+- python script.py data.txt given
 Processes the training data and performs task 3, training the Bayesian network and calculating a probability ratio.

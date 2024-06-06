@@ -65,7 +65,7 @@ Counts the occurrences of each variable and their combinations.
 Calculates the conditional probability tables for each variable given the others.
 Returns the probability tables for B, G, C, and F.
 
-Example Usage
+#Example Usage
 
 - python script.py data.txt
   
